@@ -1,0 +1,22 @@
+{
+  "name": "lesson25",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kseniya8765/lesson25.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kseniya8765/lesson25/issues"
+  },
+  "homepage": "https://github.com/Kseniya8765/lesson25#readme",
+  "devDependencies": {
+    "eslint": "^7.22.0"
+  }
+}
